@@ -1,0 +1,12 @@
+{
+  "name": "react-native-mpegts",
+  "version": "1.0.0",
+  "description": "A React Native component for playing MPEGTS videos",
+  "main": "index.js",
+  "author": "React Native Community",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.64.0"
+  }
+}
